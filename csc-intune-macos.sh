@@ -6,7 +6,7 @@ package_version='Cisco Secure Client 5.1.1.42'
 package_installer='Cisco Secure Client.pkg'
 AppFILE='/Applications/Cisco/Cisco Secure Client.app'
 version='5.1.1.42'
-URLPathForDownloadFile='https://cisco.box.com/s/uc7z08oznxlyojp2jqepb5few1b4y5z1'
+URLPathForDownloadFile='ENTER_YOUR_URL_HERE'
 
 if [ -f "$AppFILE/Contents/Info.plist" ]; then
     appBundleVersion=$(/usr/libexec/plistbuddy -c "Print CFBundleVersion" "${AppFILE}/Contents/Info.plist")
