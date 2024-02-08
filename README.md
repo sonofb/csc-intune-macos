@@ -1,6 +1,6 @@
 # Bash Shell script to deploy Cisco Secure Client 5 to MacOS devices via Intune
 
-[How to deploy Cisco Secure Client via Intune (MacOS)](https://support.umbrella.com/hc/en-us/articles/23372033235348-How-to-deploy-Cisco-Secure-Client-via-Intune-MacOS)
+Please reference this KBA for pictured instructions: [How to deploy Cisco Secure Client via Intune (MacOS)](https://support.umbrella.com/hc/en-us/articles/23372033235348-How-to-deploy-Cisco-Secure-Client-via-Intune-MacOS)
 
 ## Installation 
 
