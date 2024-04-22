@@ -32,8 +32,6 @@ fi
 
 # Runs when no existing instance of standalone Umbrella Roaming Client, AnyConnect, and/or old version of Cisco Secure CLient found, 
 
- and run the installer against install_choices.xml with the accepted parameters to install selected modules
-
 if [ "$Install_Client" = 'true' ]; then
     # delete any existing csc-writeable.dmg in /Library/Intune to ensure clean starting state
     rm -f $folder/"$disk_image"
